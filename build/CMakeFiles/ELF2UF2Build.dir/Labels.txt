@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+/home/bartolo/code/Helloworld/build/CMakeFiles/ELF2UF2Build
+/home/bartolo/code/Helloworld/build/CMakeFiles/ELF2UF2Build.rule
+/home/bartolo/code/Helloworld/build/CMakeFiles/ELF2UF2Build-complete.rule
+/home/bartolo/code/Helloworld/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+/home/bartolo/code/Helloworld/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+/home/bartolo/code/Helloworld/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+/home/bartolo/code/Helloworld/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+/home/bartolo/code/Helloworld/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+/home/bartolo/code/Helloworld/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+/home/bartolo/code/Helloworld/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule
